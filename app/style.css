@@ -1,0 +1,60 @@
+.web-design .mask-group {
+  height: 223px;
+  position: relative;
+  width: 251px;
+}
+
+.web-design .about-me {
+  align-self: stretch;
+  color: var(--secondary-text);
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  @media (min-width: 640px) {
+    font-size: 24px;
+  }
+  font-weight: 700;
+  letter-spacing: 0.64px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+}
+
+.web-design .about-me-2 {
+  align-self: stretch;
+  color: var(--secondary-text);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  position: relative;
+}
+
+.web-design .action-buttons-instance {
+  border: unset !important;
+}
+
+.web-design .projects-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 27px;
+  position: relative;
+  width: 100%;
+}
+
+.web-design .experience-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.web-design .experience-section-instance {
+  align-self: stretch !important;
+  width: 100% !important;
+}

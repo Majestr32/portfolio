@@ -1,0 +1,48 @@
+.sticky {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}
+
+.header {
+  background-color: #222222;
+  box-shadow: 0px 4.36px 16px -2.18px #0000001a;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  height: 70px;
+  @media (min-width: 640px) {
+    height: 82px;
+  }
+  padding: 31px;
+  position: relative;
+  width: 100vw;
+}
+
+.header .navbar {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  @media (min-width: 640px) {
+    gap: 71px;
+  }
+  position: relative;
+}
+
+.header .text-wrapper {
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-size: 13px;
+  @media (min-width: 640px) {
+    font-size: 15px;
+  }
+  font-weight: 600;
+  height: 19.64px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 80px;
+}

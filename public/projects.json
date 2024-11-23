@@ -1,0 +1,139 @@
+[
+    {
+        "id": "culinara",
+        "project_name": "CULINARA",
+        "status": "RELEASED",
+        "description": "Culinara is a promising new Ukrainian culinary project featuring hundreds of categorized recipes for the kitchen and bar. It offers step-by-step video tutorials by top Ukrainian chefs, complete with ingredient lists, tools, and instructions. Users can search for recipes based on available ingredients, dietary restrictions, or allergies, and even extract ingredient lists from chosen dishes. The project includes a mobile app, web app, and website, all designed to meet diverse user needs.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FCulinara.png?alt=media&token=577698c4-08d8-4287-b3c4-a89848079e40",
+        "links": [
+            {
+                "name": "App Store",
+                "url": "https://apps.apple.com/ua/app/culinara/id6636546385"
+            },
+            {
+                "name": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=culinara.eon.plus&hl=uk"
+            },
+            {
+                "name": "Website",
+                "url": "https://culinara.com.ua/"
+            }
+        ],
+        "contents": [
+            {
+                "title": "Intro",
+                "text": "I joined the project unexpectedly, thanks to a strong recommendation from a developer for whom I had built a mobile MVP in just four days. The company faced tight deadlines and a seemingly impossible workload. Their team lead gave me some critical system issues to solve, and after I provided effective solutions, I was accepted onto the project without further interviews. I worked extensively on both the mobile and web apps, dedicating long hours and weekends to meet the deadlines. The project manager was impressed by the volume of tickets I closed in such a short time, often saying, \"This complex task is perfect for Vlad\". Soon, I became a key contributor to the project's most critical processes, including creating promo codes for partners and implementing analytics.",
+                "image": null
+            },
+            {
+                "title": "Problems solved",
+                "text": "I was responsible for developing key admin panel features, including promo codes, food and user management, notification and email campaign tools. Additionally, I resolved complex bugs in both the mobile and web apps, planned and implemented the entire promo code and notification systems, and integrated subscriptions on both the frontend and backend. Currently, I focus on maintaining the application.",
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FCulinara_1.png?alt=media&token=257de95f-bc63-446c-844f-db7f9409678c"
+            }
+        ]
+    },
+    {
+        "id": "freeclimber_member",
+        "project_name": "FREECLIMBER MEMBER",
+        "status": "IN DEVELOPMENT",
+        "description": "Freeclimber Member is a mobile application designed for climbing wall enthusiasts, allowing users to explore and interact with climbing centers seamlessly. Users can register accounts, pay for entry or memberships, browse branch details, switch between locations, explore available climbing routes with details, and stay updated with branch news. The app's theme colors dynamically adapt to the selected branch for a personalized experience. It also includes native App Clips and Instant Apps for quick and easy access.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber%20Member.png?alt=media&token=a26e78d0-44c8-4d67-a293-9638ad95ec53",
+        "links": [
+            {
+                "name": "Website",
+                "url": "https://www.apsservices.de/en/products"
+            }
+        ],
+        "contents": [
+            {
+                "title": "Intro",
+                "text": "This project was for my favorite German client, Oliver Fuchs from APS Services. We first connected on Fiverr, but after completing a few milestones, we began working together directly. Oliver is an exceptional entrepreneur and manager with a wealth of experience, including a strong background as a backend developer. Working with him has been a rewarding experience.",
+                "image": null
+            },
+            {
+                "title": "Responsibilities",
+                "text": "I was responsible for all aspects of mobile development, building the app using Flutter. However, the App Clip and Instant Apps features were implemented natively.",
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber_Member_1.png?alt=media&token=5c355faf-8125-40ce-8a67-1a5243c9a4c8"
+            },
+            {
+                "title": null,
+                "text": null,
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber_Member_2.png?alt=media&token=15d9533c-2aed-4ab5-b521-8ffdbb6422ce"
+            }
+        ]
+    },
+    {
+        "id": "freeclimber_pos",
+        "project_name": "FREECLIMBER POS",
+        "status": "IN DEVELOPMENT",
+        "description": "Freeclimber POS is a Point of Lses application developed in flutter for POS customer display. It is primarily created for android talblets, working in kiosk mode, displaying scanned items, printing pdf cheque via network with thermal printer or sending it via email. Also supports signature capture for signinging agreements.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber%20POS.png?alt=media&token=9e05689e-0103-47b1-a569-ec50ab5c6420",
+        "links": [
+            {
+                "name": "Website",
+                "url": "https://www.apsservices.de/en/products"
+            }
+        ],
+        "contents": [
+            {
+                "title": "Implementation Design",
+                "text": "Initially, I found the requirements for this application challenging to understand, as it didn’t follow a typical client-server architecture. Instead, the app needed to function as both a client and a server. The idea was to allow other devices to make API requests directly to the tablet, enabling them to display information, update the UI, and communicate interactively.\nTo achieve this, I used the Flutter Shelf package to make the tablet act as a server hosted on its own IP, while simultaneously providing a user interface for interactions. It was an exciting challenge, as I realized I was building something similar to the self-service terminals used by McDonald's and KFC for order placement. This was more a problem of software engineering than traditional mobile development.\nTo interact with the tablet app via its API, users needed to enter the IP address and port in their browser, opening a configuration panel secured with a password. From this panel, users could change the password, update the access port, define API keys for HTTP interactions, and configure the tablet’s theme, ad display, and carousel settings. It was a unique experience to design such a system.",
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber_POS_1.png?alt=media&token=e2b447cc-b1fe-4cd4-9a02-77eec767dab6"
+            },
+            {
+                "title": null,
+                "text": null,
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FFreeclimber_POS_2.png?alt=media&token=31250d7a-4d80-4035-bfc3-b2c8fe66aab3"
+            }
+        ]
+    },
+    {
+        "id": "zuni",
+        "project_name": "ZUNI",
+        "status": "RELEASED INTERNALLY",
+        "description": "ZUNI is a storage management application designed to help users efficiently track their inventory. It allows you to locate specific items using barcodes, add or remove items from storage, and create new barcodes and items for seamless inventory management.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FZuni.png?alt=media&token=9a611c04-4067-4dd6-95ab-5597ad342a68",
+        "links": [
+            {
+                "name": "Website",
+                "url": "https://gnf.dk/zuni/"
+            }
+        ],
+        "contents": [
+            {
+                "title": "Intro",
+                "text": "I received this order on Fiverr from a Swiss client. Although the project was straightforward, it was slightly challenging as it required developing a native Android application in Java with server communication via API. The order was completed quickly, and the client was highly satisfied. The app was specifically created for a single client of theirs, Scholler Plast Storage, to streamline their storage management processes.",
+                "image": null
+            },
+            {
+                "title": "Problems",
+                "text": "The main challenge I faced was that I had no prior experience creating mobile applications in Java. However, by watching tutorials and exploring Stack Overflow, I managed to deliver the project within a week. Initially, everything felt new and overly complicated, but I quickly adapted.\nThe app's key features included scanning items, searching for them in the database, and determining whether to add or remove them from storage. I also integrated a QR-code scanner and added functionality to store API credentials in a settings tab. Despite the learning curve, this project turned out to be a valuable and rewarding experience.",
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FZUNI_1.png?alt=media&token=6563884a-e274-49e4-b0bf-6260805aa2c8"
+            }
+        ]
+    },
+    {
+        "id": "micqui",
+        "project_name": "MICQUI",
+        "status": "RELEASED",
+        "description": "MICQUI is a mobile app designed for organizations to create and complete quizzes. It supports all core quiz functionalities, including creating question lists with answers, providing a user-friendly interface for answering quizzes, and finding specific quizzes using unique codes.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FMicqui.png?alt=media&token=be1661f8-47f4-4203-8618-0c513dd69f30",
+        "links": [
+            {
+                "name": "App Store",
+                "url": "https://apps.apple.com/ca/app/micqui-client/id6468893516"
+            },
+            {
+                "name": "Google Play",
+                "url": "https://play.google.com/store/apps/details?id=com.coderas.mcqui&hl=uk&gl=TW"
+            }
+        ],
+        "contents": [
+            {
+                "title": "Decription",
+                "text": "MICQUI was one of the first mobile applications I developed and published to both the App Store and Google Play using Flutter. Initially created to meet the specific needs of a single company, it was later made available to the public.",
+                "image": "https://firebasestorage.googleapis.com/v0/b/specialists-analyzer.firebasestorage.app/o/portfolio%2FMICQUI_1.png?alt=media&token=7545a701-fafc-4cfb-a820-a61b46ff7445"
+            }
+        ]
+    }
+]

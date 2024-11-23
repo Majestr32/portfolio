@@ -1,0 +1,18 @@
+.EXPERIENCE-WITH {
+    height: 30px;
+    position: relative;
+    width: 250px;
+  }
+  
+  .EXPERIENCE-WITH .text-wrapper-6 {
+    color: var(--secondary-text);
+    font-family: "Poppins", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 2.40px;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  

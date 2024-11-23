@@ -1,0 +1,28 @@
+.frame {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    position: relative;
+    width: 160px;
+  }
+  
+  .frame .view-icon {
+    height: 11.09px;
+    position: relative;
+    width: 11.6px;
+  }
+  
+  .frame .contact-subtitle-3 {
+    color: #c4c4c4;
+    font-family: "Poppins", Helvetica;
+    font-size: 14.1px;
+    font-weight: 600;
+    letter-spacing: 0.28px;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-decoration: underline;
+    width: fit-content;
+  }
+  

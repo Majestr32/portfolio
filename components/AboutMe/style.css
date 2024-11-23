@@ -1,0 +1,19 @@
+.about-me {
+    height: 108px;
+    position: relative;
+    width: 679px;
+  }
+  
+  .about-me .text-wrapper-13 {
+    color: var(--secondary-text);
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0.36px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -1px;
+  }
+  

@@ -1,0 +1,82 @@
+.element-project {
+  background-color: var(--collection-1-card-color);
+  border-radius: 18px;
+  height: 301px;
+  position: relative;
+  width: 340px;
+  @media (min-width: 414px) {
+    width: 390px;
+  }
+}
+
+.element-project .project-thumbnail {
+  height: 235px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 340px;
+  @media (min-width: 414px) {
+    width: 390px;
+  }
+}
+
+.element-project .project-title {
+  height: 39px;
+  left: 23px;
+  position: absolute;
+  top: 247px;
+  width: 98px;
+}
+
+.element-project .RELEASED {
+  color: #4291e9;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.element-project .RELEASED-INTERNALLY {
+  color: #4291e9;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.element-project .IN-DEVELOPMENT {
+  color: #c4c4c4;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.element-project .culinara {
+  color: var(--collection-1-primary-color);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

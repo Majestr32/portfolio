@@ -1,0 +1,31 @@
+.logos {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 60.45px;
+    position: relative;
+  }
+  
+  .logos .img-2 {
+    height: 42px;
+    position: relative;
+    width: 42px;
+  }
+  
+  .logos .html {
+    height: 42px;
+    position: relative;
+    width: 37.04px;
+  }
+  
+  .logos .css {
+    height: 42px;
+    position: relative;
+    width: 37px;
+  }
+  
+  .logos .reactjs {
+    height: 42px;
+    position: relative;
+    width: 47px;
+  }
+  

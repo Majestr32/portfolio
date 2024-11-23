@@ -1,0 +1,18 @@
+.avatar {
+    height: 223px;
+    width: 251px;
+  }
+  
+  .avatar .overlap-group-2 {
+    background: #191715;
+    background-image: url(./photo.png);
+    background-position: 50% 20%;
+    background-size: cover;
+    border-radius: 106.5px;
+    height: 213px;
+    left: 9px;
+    position: relative;
+    top: 9px;
+    width: 213px;
+  }
+  

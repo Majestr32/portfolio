@@ -1,0 +1,59 @@
+.element-st-project {
+    background-color: var(--collection-1-card-color);
+    border-radius: 18px;
+    height: 301px;
+    position: relative;
+    width: 390px;
+  }
+  
+  .element-st-project .img {
+    height: 235px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 390px;
+  }
+  
+  .element-st-project .project-title-2 {
+    height: 40px;
+    left: 23px;
+    position: absolute;
+    top: 247px;
+    width: 161px;
+  }
+  
+  .element-st-project .text-wrapper-4 {
+    color: var(--collection-1-primary-color);
+    font-family: "Poppins", Helvetica;
+    font-size: 19px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 20px;
+    width: 157px;
+  }
+  
+  .element-st-project .text-wrapper-5 {
+    color: var(--secondary-text);
+    font-family: "Poppins", Helvetica;
+    font-size: 10px;
+    font-weight: 800;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 19px;
+    position: absolute;
+    top: 0;
+    width: 106px;
+  }
+  
+  .element-st-project .view-icon-2 {
+    height: 11px;
+    left: 354px;
+    position: absolute;
+    top: 262px;
+    width: 12px;
+  }
+  

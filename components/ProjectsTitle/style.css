@@ -1,0 +1,20 @@
+.projects {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 133.79, 95.67) 0%,
+    rgb(213.1, 73.31, 29.35) 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  padding: 0px 10px;
+  letter-spacing: 0;
+  line-height: 35.7px;
+  text-fill-color: transparent;
+  top: -1px;
+  white-space: nowrap;
+}

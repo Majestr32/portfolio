@@ -1,0 +1,16 @@
+.web-design .image-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 58px;
+  position: relative;
+  width: 100%;
+}
+
+.web-design .image {
+  height: 712px;
+  object-fit: cover;
+  position: relative;
+  width: 1286px;
+}

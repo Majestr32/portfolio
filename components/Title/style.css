@@ -1,0 +1,14 @@
+.title {
+    height: 127px;
+    position: relative;
+    width: 670px;
+  }
+  
+  .title .img-3 {
+    height: 104px;
+    left: 10px;
+    position: absolute;
+    top: 10px;
+    width: 647px;
+  }
+  
