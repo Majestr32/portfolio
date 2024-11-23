@@ -37,7 +37,9 @@ export const Header = ({ className }) => {
           <Link href={isHomePage ? "#home" : "/"}>
             <div
               className={`text-wrapper ${
-                isHomePage && activeSection == "home" ? "xl:text-[#4291e9]" : ""
+                isHomePage && activeSection == "home"
+                  ? "xl:text-[#4291e9] text-white"
+                  : "text-white"
               }`}
             >
               Home
@@ -48,8 +50,8 @@ export const Header = ({ className }) => {
             <div
               className={`text-wrapper ${
                 isHomePage && activeSection == "projects"
-                  ? "xl:text-[#4291e9]"
-                  : ""
+                  ? "xl:text-[#4291e9] text-white"
+                  : "text-white"
               }`}
             >
               Projects
@@ -60,8 +62,8 @@ export const Header = ({ className }) => {
             <div
               className={`text-wrapper ${
                 isHomePage && activeSection == "experience"
-                  ? "xl:text-[#4291e9]"
-                  : ""
+                  ? "xl:text-[#4291e9] text-white"
+                  : "text-white"
               }`}
             >
               Experience
@@ -72,8 +74,8 @@ export const Header = ({ className }) => {
             <div
               className={`text-wrapper ${
                 isHomePage && activeSection == "contact"
-                  ? "xl:text-[#4291e9]"
-                  : ""
+                  ? "xl:text-[#4291e9] text-white"
+                  : "text-white"
               }`}
             >
               Contact

@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <section id="contact">
       <div className="mx-[24px] md:mx-[60px] mt-12">
-        <h6 className="text-2xl font-bold font-poppins">Contact</h6>
+        <h6 className="text-2xl font-bold font-poppins text-white">Contact</h6>
 
         <div className="mt-[15px]"></div>
 
@@ -27,7 +27,7 @@ export const Footer = () => {
             src="https://c.animaapp.com/ADpuaVWx/img/email-icon-1.svg"
           />
 
-          <p className="text-wrapper">duartsamon34@gmail.com</p>
+          <p className="text-wrapper text-white">duartsamon34@gmail.com</p>
         </div>
 
         <div className="flex flex-row gap-2">
@@ -37,7 +37,7 @@ export const Footer = () => {
             src="https://c.animaapp.com/ADpuaVWx/img/icons8-telegram-1-1.svg"
           />
 
-          <p className="contact-subtitle-2">@vladyem</p>
+          <p className="contact-subtitle-2 text-white">@vladyem</p>
         </div>
 
         <Link
@@ -51,7 +51,7 @@ export const Footer = () => {
               src="https://c.animaapp.com/ADpuaVWx/img/icons8-linkedin--1--1-1.svg"
             />
 
-            <p className="text-wrapper underline decoration-[0.5px]">
+            <p className="text-wrapper text-white underline decoration-[0.5px]">
               LinkedIn
             </p>
           </div>

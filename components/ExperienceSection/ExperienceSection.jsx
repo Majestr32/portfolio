@@ -6,7 +6,7 @@ export const ExperienceSection = () => {
       <div className="flex flex-col gap-4">
         <div>
           <div className="flex justify-between mb-1">
-            <h5 className="text-xl font-bold font-poppins">
+            <h5 className="text-xl text-white font-bold font-poppins">
               Middle+ Flutter Developer - Growthy Digital
             </h5>
 
@@ -28,7 +28,7 @@ export const ExperienceSection = () => {
 
         <div>
           <div className="flex justify-between mb-1">
-            <h5 className="text-xl font-bold font-poppins">
+            <h5 className="text-xl text-white font-bold font-poppins">
               Cofounder - Pandas Code
             </h5>
 
@@ -49,7 +49,7 @@ export const ExperienceSection = () => {
 
         <div>
           <div className="flex justify-between mb-1">
-            <h5 className="text-xl font-bold font-poppins">
+            <h5 className="text-xl text-white font-bold font-poppins">
               Mobile Developer - APS Services
             </h5>
 
@@ -70,7 +70,7 @@ export const ExperienceSection = () => {
 
         <div>
           <div className="flex justify-between mb-1">
-            <h5 className="text-xl font-bold font-poppins">
+            <h5 className="text-xl text-white font-bold font-poppins">
               Mobile Developer - Freelance
             </h5>
 
@@ -89,7 +89,7 @@ export const ExperienceSection = () => {
 
         <div>
           <div className="flex justify-between mb-1">
-            <h5 className="text-xl font-bold font-poppins">
+            <h5 className="text-xl text-white font-bold font-poppins">
               Unity Developer - Freelance
             </h5>
 
